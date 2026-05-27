@@ -64,7 +64,7 @@ Risk Modeling & Research:
 
 ### 🎓 Education
 * [MIPT x Avito.Tech](https://start.avito.ru/datascience-mipt) Computer Science (2025 - 2027)
-* [Tinkoff Scholarship](https://education.tbank.ru/scholarship/) (2023 - 2024)
+* [Tinkoff Scholarship](https://education.tbank.ru/scholarship/) Data Science (2023 - 2024)
 * [NUST MISIS](https://misis.ru) Applied Mathematics (2021 - 2025)
 
 ### 🏆 Achievements
