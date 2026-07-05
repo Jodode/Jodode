@@ -2,7 +2,7 @@
 ### Middle+ DS 
 </a>
 
-### [CV](пусто)
+### [CV](https://drive.google.com/file/d/1qZ53stBr8NLbVEb1dYYjsV4b0COIpnj3/view?usp=sharing)
 </a>
 
 ### 🤹🏽 ML Stack
