@@ -3,7 +3,8 @@
 </a>
 
 ### [CV](https://drive.google.com/file/d/1qZ53stBr8NLbVEb1dYYjsV4b0COIpnj3/view?usp=sharing)
-[RU version](https://drive.google.com/file/d/13iii9Y5-IasRxznE4xKIPbWl5QPPBoel/view?usp=sharing)
+[RU version](https://drive.google.com/file/d/1tIUgBEYp5NQ84q7v-R02lA9k1Ndx52f7/view?usp=sharing)
+
 </a>
 
 ### 🤹🏽 ML Stack
