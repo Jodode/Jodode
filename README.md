@@ -1,5 +1,5 @@
 ## Egor Mirantsov
-### Middle+ DS 
+### Senior DS 
 </a>
 
 ### [CV](https://drive.google.com/file/d/1qZ53stBr8NLbVEb1dYYjsV4b0COIpnj3/view?usp=sharing)
@@ -59,7 +59,8 @@ Monetization Efficiency & Research:
 [OTP Bank](https://www.otpbank.ru/)
 
 Risk Modeling & Research:
-* Middle+ DS (January 2026 - present day)
+* Senior DS (September 2026 - present day)
+* Middle+ DS (January 2026 - September 2026)
 * Middle DS (July 2025 - January 2026)
 * Junior+ DS (December 2024 - July 2025)
 * Intern DS (July 2024 - December 2024)
@@ -71,6 +72,7 @@ Risk Modeling & Research:
 
 ### 🏆 Achievements
 * 1/400 🥇 [Yandex AIDAO](https://education.yandex.ru/aidao) (AI International Olympiad | Online stage) (2024) | [Solution](https://github.com/incllude/AIDAO24)
+* Paper: NTIRE 2026 Low-light Enhancement: Twilight Cowboy Challenge | [arXiv](https://arxiv.org/abs/2608.09782v1)
 
 ### 🔗 Links
 <p align="left">
