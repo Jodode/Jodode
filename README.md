@@ -54,7 +54,7 @@
 [Avito.Tech](https://avito.tech/) - part-time
 
 Monetization Efficiency & Research:
-* Intern DS (March 2026 - present day)
+* DS Researcher (March 2026 - present day)
 
 [OTP Bank](https://www.otpbank.ru/)
 
