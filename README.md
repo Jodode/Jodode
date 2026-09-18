@@ -67,11 +67,12 @@ Risk Modeling & Research:
 
 ### 🎓 Education
 * [MIPT](https://mipt.ru) Mathematics and Computer Science (2025 - 2027)
-* [Tinkoff Scholarship](https://education.tbank.ru/scholarship/) Data Science (2023 - 2024)
+* [Tinkoff Scholarship](https://education.tbank.ru/scholarship/) Information Security (2023 - 2024)
 * [NUST MISIS](https://misis.ru) Applied Mathematics (2021 - 2025)
 
 ### 🏆 Achievements
 * 1/400 🥇 [Yandex AIDAO](https://education.yandex.ru/aidao) (AI International Olympiad | Online stage) (2024) | [Solution](https://github.com/incllude/AIDAO24)
+* 1/13 🥇 LaimHack (Internal document antifraud hackathon) (2025)
 * Paper: NTIRE 2026 Low-light Enhancement: Twilight Cowboy Challenge | [arXiv](https://arxiv.org/abs/2608.09782v1)
 
 ### 🔗 Links
